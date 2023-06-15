@@ -1,5 +1,4 @@
 # random-shared-scripts
-sharing random scripts
 
 i will try to intermittently update this repo with scripts i have written (sometimes with help from chatGPT) that may be of use to others.
 
